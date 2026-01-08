@@ -11,5 +11,5 @@ python >=3.9
 ## Installing
 
 ```
-python main.py {path to YGO: LTDO executable}
+python main.py {path to YGO: LOTD executable}
 ```
